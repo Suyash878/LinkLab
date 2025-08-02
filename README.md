@@ -1,2 +1,2 @@
 # LinkLab
-A powerful web automation tool like Zapier.
+A powerful web automation tool like [Zapier](https://zapier.com/).
